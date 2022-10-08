@@ -97,7 +97,7 @@ header {
 }
 
 .subtitulo {
-      color: rgb(49, 49, 48);
+      color: rgb(58, 58, 58);
       font-size: 20px;
       margin-bottom: 35px;
 }
@@ -191,7 +191,7 @@ header {
           padding: 2px 5px;
           font-size: 15px;
           cursor: pointer;
-          background-color: #c7c5c2;
+          background-color:transparent;
           margin-top: 20px;
           margin-bottom: 10px;
           scroll-behavior: smooth;
